@@ -27,12 +27,12 @@ The project includes several steps, from data preprocessing to the evaluation of
 ## Dependencies
 
 The project uses the following Python libraries:
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-xgboost
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
 
 ## Dataset
 
