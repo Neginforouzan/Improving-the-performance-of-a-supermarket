@@ -17,28 +17,6 @@ Key Features
 	•	Model Evaluation: Comparing the performance of different clustering techniques.
 	•	Visualization: Visualizing clusters and understanding customer segments.
 
-Setup Instructions
-
-To run this project locally, follow the steps below:
-
-	1.	Clone the repository:
-
-git clone https://github.com/your-username/supermarket-customer-segmentation.git
-cd supermarket-customer-segmentation
-
-
-	2.	Install Dependencies:
-Ensure you have Python installed. Install the required packages using pip:
-
-pip install -r requirements.txt
-
-
-	3.	Run the Jupyter Notebook:
-Start Jupyter Notebook in your terminal:
-
-jupyter notebook
-
-Open the notebook Improving the performance of a supermarket.ipynb and execute the cells to run the analysis.
 
 Dependencies
 
