@@ -54,8 +54,7 @@ By grouping customers into meaningful segments, supermarkets can now implement m
 
 ## Contributors
 
-- **[Negin Forouzan]
-(https://github.com/neginforouzan)**
+- **[Negin Forouzan](https://github.com/neginforouzan)**
 - **[Ali Soleimani](https://github.com/alisoleimani2001)**
 
 
