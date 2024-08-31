@@ -52,6 +52,18 @@ The power of machine learning lies in its ability to extract valuable insights f
 
 By grouping customers into meaningful segments, supermarkets can now implement more effective marketing strategies, drive customer engagement, and ultimately, improve their bottom line. The results of this project demonstrate that even subtle differences in customer behavior can be leveraged to gain a competitive edge in the retail market.
 
+## Contributors
+
+- **[Negin Forouzan]
+(https://github.com/neginforouzan)**
+- **[Ali Soleimani](https://github.com/alisoleimani2001)**
+
+
+## Supervisor
+
+- **[Dr. Sadeghzadeh]**
+
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a Pull Request.
