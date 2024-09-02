@@ -4,6 +4,16 @@
 
 This project leverages machine learning techniques to improve the performance of a supermarket by segmenting customers based on their shopping behavior and demographics. By understanding different customer segments, supermarkets can tailor their marketing strategies, optimize inventory, and enhance customer satisfaction.
 
+## **Table of Contents**
+
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Dependencies](#dependencies)
+- [Dataset](#dataset)
+- [Results](#results)
+- [Conclusion](#conclusion)
+- [Contributors](#contributors)
+
 ## Project Overview
 
 In today's competitive retail landscape, understanding your customers is more important than ever. Supermarkets generate vast amounts of data every day, but transforming that data into actionable insights requires advanced analytical methods.
